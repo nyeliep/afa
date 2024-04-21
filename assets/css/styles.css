@@ -248,6 +248,17 @@ input {
     padding: 3rem;
     transition: .4s;
   }
+
+  .nav__logo{
+    margin-top: 8px;
+    font-size: 8px;
+  }
+
+  .logo__img{
+    margin-top: 5px;
+    width: 40px;
+    height: 40px;
+  }
 }
 
 .nav__list {
