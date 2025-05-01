@@ -25,12 +25,12 @@ Welcome to the official website project for **Ayok Fountain Academy**, a modern,
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/ayok-fountain-academy.git
+   git clone https://github.com/nyeliep/afa.git
    ```
 
 2. **Navigate into the folder**  
    ```bash
-   cd ayok-fountain-academy
+   cd afa
    ```
 
 3. **Open `index.html` in your browser**  
